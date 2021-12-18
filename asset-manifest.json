@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Memories-Project/static/css/main.1ba81f70.chunk.css",
+    "main.js": "/Memories-Project/static/js/main.f8ca4753.chunk.js",
+    "main.js.map": "/Memories-Project/static/js/main.f8ca4753.chunk.js.map",
+    "runtime-main.js": "/Memories-Project/static/js/runtime-main.7101497b.js",
+    "runtime-main.js.map": "/Memories-Project/static/js/runtime-main.7101497b.js.map",
+    "static/js/2.db243663.chunk.js": "/Memories-Project/static/js/2.db243663.chunk.js",
+    "static/js/2.db243663.chunk.js.map": "/Memories-Project/static/js/2.db243663.chunk.js.map",
+    "index.html": "/Memories-Project/index.html",
+    "static/css/main.1ba81f70.chunk.css.map": "/Memories-Project/static/css/main.1ba81f70.chunk.css.map",
+    "static/js/2.db243663.chunk.js.LICENSE.txt": "/Memories-Project/static/js/2.db243663.chunk.js.LICENSE.txt",
+    "static/media/memories.9cfa8a46.png": "/Memories-Project/static/media/memories.9cfa8a46.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7101497b.js",
+    "static/js/2.db243663.chunk.js",
+    "static/css/main.1ba81f70.chunk.css",
+    "static/js/main.f8ca4753.chunk.js"
+  ]
+}
